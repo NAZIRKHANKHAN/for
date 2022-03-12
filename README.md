@@ -17,3 +17,10 @@ pip2 install bs4
 
 pip2 install futures
 
+git clone https://github.com/NAZIRKHANKHAN/for
+
+cd for 
+
+ls
+
+python Adf.py
